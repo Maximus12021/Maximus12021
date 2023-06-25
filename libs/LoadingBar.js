@@ -22,7 +22,7 @@ class LoadingBar{
 		const bar = document.createElement("div");
 		bar.style.background = '#22a';
 		bar.style.width = '50%';
-		bar.style.borderRadius = '10px';
+		bar.style.borderRadius = '20px';
 		bar.style.height = '100%';
 		bar.style.width = '0';
 		barBase.appendChild(bar);
